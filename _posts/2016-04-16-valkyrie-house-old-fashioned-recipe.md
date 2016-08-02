@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-05-29T23:45:16.692Z'
+datePublished: '2016-08-02T13:39:49.924Z'
 sourcePath: _posts/2016-04-16-valkyrie-house-old-fashioned-recipe.md
 inFeed: true
-isBasedOnUrl: 'http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned'
-hasPage: false
+hasPage: true
 keywords:
   - grams
   - recipe
@@ -17,7 +16,7 @@ keywords:
   - polyunsaturated
 related: []
 author: []
-dateModified: '2016-05-29T23:45:16.220Z'
+dateModified: '2016-08-02T13:39:49.562Z'
 title: Valkyrie House Old-Fashioned Recipe
 app_links: []
 publisher:
@@ -25,10 +24,14 @@ publisher:
   name: NYT Cooking
   favicon: 'http://cooking.nytimes.com/favicon.ico'
   domain: cooking.nytimes.com
-description: This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.
+description: >-
+  This recipe is by Robert Simonson. Tell us what you think of it at The New
+  York Times - Dining - Food.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: valkyrie-house-old-fashioned-recipe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
