@@ -12,5 +12,9 @@ color:
     - '#DF5A49'
 layout_spectrum: 0.4147542235441506
 name: Forgot to Feed your Pet
+navigation:
+  - name: Click here to make Us more money
+    url: hoverboard.reviews
+    type: external
 title: Pet Friendly Feeder Reviews
 description: the Best reviews by the Best authors
